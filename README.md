@@ -1,4 +1,7 @@
 # SharePair
+
+![The project's screenshot.](ss/sharepair-d.png)
+
 The aim of the project is to create a web based platform which provides to set study or any other meeting to students who are at the same schools. Other aims of the project are supporting the students who have lack of study, and rewarding the student who helps others. This project won two different prizes:
 * AYY First Prize (Atılım University Software Competition) 2018
 * TÜBİTAK 2238 Entrepreneurship and Innovation Competition Regional Exhibition Second Prize 2018
